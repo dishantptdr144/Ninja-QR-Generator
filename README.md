@@ -57,19 +57,15 @@ pip install customtkinter qrcode pillow
 
 <div align="center">
 
-## 👨‍💻 Developer
+## 👨‍💻 Author
 
 ### **Dishant Patidar**
-
-🐍 Python Developer • 🌐 Full Stack Developer
-⚡ Flask APIs • ☁️ Server Management
-🚀 Building Automation & Desktop Applications
 
 <br>
 
 ### 🌟 Support The Project
 
-If you found this project useful, consider giving it a ⭐ on GitHub.
+If you found this project useful, consider giving it a star on GitHub.
 
 Your support helps motivate future updates and open-source projects.
 
