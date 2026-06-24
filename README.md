@@ -31,11 +31,13 @@
 
 ## 📸 Preview
 
-Add your application screenshot here:
+<div align="center">
 
-```text
-assets/preview.png
-```
+<img src="https://res.cloudinary.com/ds2cc1ydm/image/upload/v1782305144/Screenshot_2026-06-24_181250_g1qvub.png" alt="Preview 1" width="45%"/>
+
+<img src="https://res.cloudinary.com/ds2cc1ydm/image/upload/v1782305148/Screenshot_2026-06-24_181315_xzo5nu.png" alt="Preview 2" width="45%"/>
+
+</div>
 
 ---
 
@@ -55,22 +57,14 @@ pip install customtkinter qrcode pillow
 
 ---
 
-<div align="center">
-
 ## 👨‍💻 Author
 
-### **Dishant Patidar**
+**Dishant Patidar**
 
-<br>
+⭐ If you like this project, consider giving it a star!
 
-### 🌟 Support The Project
+---
 
-If you found this project useful, consider giving it a star on GitHub.
-
-Your support helps motivate future updates and open-source projects.
-
-<br>
-
-**Made with ❤️ by Dishant Patidar**
-
-</div>
+<p align="center">
+  Made with ❤️ by Dishant Patidar
+</p>
