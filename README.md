@@ -63,8 +63,8 @@ pip install customtkinter qrcode pillow
 
 ---
 
-<div align="center">
 ## 👨‍💻 Author
+<div align="center">
 
 **Dishant Patidar**
 
