@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ NINJA QR SUITE
+# ⚡ NINJA QR GENERATOR
 
 ### 🚀 Modern QR Code Generator Built with Python & CustomTkinter
 
@@ -18,21 +18,14 @@
 
 ## ✨ Features
 
-🔗 Generate Custom Text & URL QR Codes
-
-💰 Create UPI Payment QR Codes
-
-🎨 Customize QR Colors
-
-🖼️ Customize Background Colors
-
-👀 Real-Time QR Preview
-
-💾 Export High-Quality PNG Images
-
-🌙 Modern Dark-Themed User Interface
-
-⚡ Fast, Lightweight & Easy to Use
+* 🔗 Generate Custom Text & URL QR Codes
+* 💰 Create UPI Payment QR Codes
+* 🎨 Customize QR Colors
+* 🖼️ Customize Background Colors
+* 👀 Real-Time QR Preview
+* 💾 Export High-Quality PNG Images
+* 🌙 Modern Dark-Themed User Interface
+* ⚡ Fast, Lightweight & Easy to Use
 
 ---
 
@@ -63,34 +56,17 @@ pip install customtkinter qrcode pillow
 ---
 
 ## 💻 Tech Stack
-
-🐍 Python
-
-🎨 CustomTkinter
-
-🔳 QRCode
-
-🖼️ Pillow
-
----
-
-## 👨‍💻 Author
-
-**Dishant Patidar**
-
-🐍 Python Developer
-
-🌐 Full Stack Developer
-
-⚡ Flask APIs & Backend Systems
-
-☁️ Server Management
-
-🚀 Building Automation & Desktop Applications
+* 🐍 Python
+* 🎨 CustomTkinter
+* 🔳 QRCode
+* 🖼️ Pillow
 
 ---
 
 <div align="center">
+                   ## 👨‍💻 Author
+
+                 **Dishant Patidar**
 
 ### ⭐ If you like this project, don't forget to star the repository!
 
