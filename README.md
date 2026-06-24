@@ -55,21 +55,26 @@ pip install customtkinter qrcode pillow
 
 ---
 
-## 💻 Tech Stack
-* 🐍 Python
-* 🎨 CustomTkinter
-* 🔳 QRCode
-* 🖼️ Pillow
-
----
-
 <div align="center">
-## 👨‍💻 Author
 
-**Dishant Patidar**
+## 👨‍💻 Developer
 
-### ⭐ If you like this project, don't forget to star the repository!
+### **Dishant Patidar**
 
-Made with ❤️ by Dishant Patidar
+🐍 Python Developer • 🌐 Full Stack Developer
+⚡ Flask APIs • ☁️ Server Management
+🚀 Building Automation & Desktop Applications
+
+<br>
+
+### 🌟 Support The Project
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
+Your support helps motivate future updates and open-source projects.
+
+<br>
+
+**Made with ❤️ by Dishant Patidar**
 
 </div>
