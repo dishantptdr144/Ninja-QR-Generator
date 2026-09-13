@@ -44,9 +44,9 @@
 ## 📦 Required Modules
 
 ```bash
-pip install customtkinter
-pip install qrcode
-pip install pillow
+customtkinter
+qrcode
+pillow
 ```
 
 Or install everything at once:
